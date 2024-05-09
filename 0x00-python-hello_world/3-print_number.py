@@ -1,2 +1,3 @@
 #!/usr/bin/python3
-print( )
+number = 98
+print(“{:id} Battery street”.format(number)
